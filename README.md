@@ -1,3 +1,2 @@
 # Avinashcode
-hi im abnash 
-author -Aviansh
+hi im abnash avinash
